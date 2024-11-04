@@ -1,0 +1,21 @@
+Inversion of Control
+Bean:
+1)Annotations
+@Component
+@Service
+@Config
+@Repository
+2)xml
+3)@Bean
+@PostConstruct
+@PreDestroy
+
+Dependency Injection
+@Authowired
+1)Field
+2)Setter
+3)Constructor
+
+Many Beans Scenario
+1)@Primary
+2)@Qualifier
